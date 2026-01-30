@@ -68,8 +68,7 @@ Highlights:
 ---
 
 ## 📈 GitHub Stats
-![Faisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faisalahmed54&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalahmed54&layout=compact&theme=radical)
+[![Faisal's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/faisalahmed54?cardType=github-stats)](https://git.io/awesome-stats-card)
 
 ---
 
